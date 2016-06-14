@@ -6,11 +6,16 @@ Presentation, resources, and notes for the VT GIS internal show-and-tell 6/17/16
 A combination of `Agile` methodologies, and interactive, iterative, user-driven design.
 
 **Agile**
-- Small, cross-functional teams  
+http://vtrans.github.io/vtp3-roadmap/agile.html  
+- Iterative, incremental, evolutionary approach  
+- Efficient: use face-to-face communications  
+- Take advantage of short feedback loop  
+- Focus on quality  
 - Personas  
 - User Stories  
 
 **Design Studio**  
+- Use small, cross-functional teams  
 - Generate a ton of design concepts in a small amount of time.  
 - "15 highly paid team members spent an entire day. Generated two weeks worth of work (420 design concepts, 380 uniques) for one scenario in less than six hours."  
 - Get instant buy-in from management, developers.  
