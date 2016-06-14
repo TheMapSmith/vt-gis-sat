@@ -5,7 +5,7 @@ Presentation, resources, and notes for the VT GIS internal show-and-tell 6/17/16
 # Agile Design Studio  
 A combination of `Agile` methodologies, and interactive, iterative, user-driven design.
 
-**Agile**
+**Agile**  
 http://vtrans.github.io/vtp3-roadmap/agile.html  
 - Iterative, incremental, evolutionary approach  
 - Efficient: use face-to-face communications  
@@ -33,10 +33,10 @@ http://vtrans.github.io/vtp3-roadmap/agile.html
 - Break down the fear of drawing: a sloppy rectangle can be a search box or label or... it doesn't matter because you'll get to explain it later.  
 - Everyone is on the same page (literally) - everyone is equally uncomfortable with drawing  
 
-  **Pitch**  
-  - 3 minutes to pitch your idea to your team  
-  - Tell: what scenario did you design for, goals you tried to achieve, how did design address those goals  
-  - No questions from group - wait and listen (and take notes of questions)  
+**Pitch**  
+- 3 minutes to pitch your idea to your team  
+- Tell: what scenario did you design for, goals you tried to achieve, how did design address those goals  
+- No questions from group - wait and listen (and take notes of questions)  
 
 **Critique**  
 - 2 minutes to give critiques  
@@ -72,18 +72,15 @@ _(Chronological)_
 
 [Design Studio Methodology](https://articles.uie.com/design_studio_methodology/)  
 
-
 [The Design Studio Method - Todd Zaki Warfel](https://vimeo.com/37861987)
 
-
-
 ## Github  
-**Github Basics by Stephen**
+**Github Basics by Stephen**  
 http://vtrans.github.io/vtp3-what-is-github/  
 
 ## Agile
-**VTransparency 3.0**
+**VTransparency 3.0**  
 _Project Overview_  
-http://vtrans.github.io/vtp3-roadmap/
-_Lessons Learned_  
+http://vtrans.github.io/vtp3-roadmap/  
+_Lessons Learned_    
 https://github.com/VTrans/vtp3-final-documents/blob/master/Process.md  
