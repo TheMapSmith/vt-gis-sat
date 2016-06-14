@@ -15,6 +15,7 @@ http://vtrans.github.io/vtp3-roadmap/agile.html
 - User Stories  
 
 **Design Studio**  
+"Not a place or a tool; a time boxed, collaborative design session that serves to consolidate ideas and team direction around a common design"  
 - Use small, cross-functional teams  
 - Generate a ton of design concepts in a small amount of time.  
 - "15 highly paid team members spent an entire day. Generated two weeks worth of work (420 design concepts, 380 uniques) for one scenario in less than six hours."  
@@ -63,9 +64,18 @@ http://vtrans.github.io/vtp3-roadmap/agile.html
 - Take inspiration from the sketches and develop prototypes
 - Run a small version of the process internally to reach the final outcome.  
 
-## Design Studio Video  
-**The Design Studio Method - Todd Zaki Warfel**  
-https://vimeo.com/37861987
+## Design Studio resources  
+_(Chronological)_  
+[User Interface Design in an Agile Environment: Enter the Design Studio  ](http://interaction08.ixda.org/Jeff_White%20and%20Jim%20Ungar.php)  
+
+[Design Studio recipe](http://jpattonassociates.com/design-studio-recipe/)  
+
+[Design Studio Methodology](https://articles.uie.com/design_studio_methodology/)  
+
+
+[The Design Studio Method - Todd Zaki Warfel](https://vimeo.com/37861987)
+
+
 
 ## Github  
 **Github Basics by Stephen**
