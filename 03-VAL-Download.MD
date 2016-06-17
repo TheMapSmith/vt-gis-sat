@@ -11,7 +11,7 @@ Help design an app for surveyors to download state-owned railroad property surve
 **So I can** complete a survey of an abutting property
 
 #### Data sources
-- Railroad Valuation (VAL) sheets
+- [Railroad Valuation (VAL) sheets](http://arcg.is/28K9dzN)
   - Georeferenced
   - Non-Georeferenced
 - VAL sheet georeferenced outlines
