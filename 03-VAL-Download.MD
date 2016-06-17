@@ -2,10 +2,13 @@
 Help design an app for surveyors to download state-owned railroad property surveys.  
 
 ## The Persona  
-*As a* **Surveyor in Vermont**
+**As a** surveyor in Vermont
 
 ## The User Story  
-**I need to** see railroad right-of-way boundary information.
+**I need to** see railroad right-of-way boundary information
+
+## The Benefit  
+**So I can** complete a survey of an abutting property
 
 #### Data sources
 - Railroad Valuation (VAL) sheets
