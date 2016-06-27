@@ -1,5 +1,5 @@
-# Vermont GIS Show-and-Tell  
-_Presentation, resources, and notes for the VT GIS internal show-and-tell 6/17/16_
+# Build Your Best Map
+_Presentation, resources, and notes for the Esri UC_
 
 ##### How VTrans Rail collaborated with users to design and develop a custom, open-source web mapping application using [Esri's Javascript API](https://developers.arcgis.com/javascript/) and [GitHub](https://github.com/)
 
