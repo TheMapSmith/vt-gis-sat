@@ -1,5 +1,7 @@
 # Build Your Best Map
-_Presentation, resources, and notes for the Esri UC_
+_Presentation, resources, and notes for the Esri UC_  
+
+### This talk is at [uc16.mapsmith.net](http://uc16.mapsmith.net)
 
 ### How VTrans Rail collaborated with users to design and develop a custom, open-source web mapping application using [Esri's Javascript API](https://developers.arcgis.com/javascript/) and [GitHub](https://github.com/)
 
